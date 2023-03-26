@@ -1,0 +1,15 @@
+C:\Users\lamal\Desktop\Itogoviy-test\bin\Debug\net6.0\Itogoviy-test.exe
+C:\Users\lamal\Desktop\Itogoviy-test\bin\Debug\net6.0\Itogoviy-test.deps.json
+C:\Users\lamal\Desktop\Itogoviy-test\bin\Debug\net6.0\Itogoviy-test.runtimeconfig.json
+C:\Users\lamal\Desktop\Itogoviy-test\bin\Debug\net6.0\Itogoviy-test.dll
+C:\Users\lamal\Desktop\Itogoviy-test\bin\Debug\net6.0\Itogoviy-test.pdb
+C:\Users\lamal\Desktop\Itogoviy-test\obj\Debug\net6.0\Itogoviy-test.csproj.AssemblyReference.cache
+C:\Users\lamal\Desktop\Itogoviy-test\obj\Debug\net6.0\Itogoviy-test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lamal\Desktop\Itogoviy-test\obj\Debug\net6.0\Itogoviy-test.AssemblyInfoInputs.cache
+C:\Users\lamal\Desktop\Itogoviy-test\obj\Debug\net6.0\Itogoviy-test.AssemblyInfo.cs
+C:\Users\lamal\Desktop\Itogoviy-test\obj\Debug\net6.0\Itogoviy-test.csproj.CoreCompileInputs.cache
+C:\Users\lamal\Desktop\Itogoviy-test\obj\Debug\net6.0\Itogoviy-test.dll
+C:\Users\lamal\Desktop\Itogoviy-test\obj\Debug\net6.0\refint\Itogoviy-test.dll
+C:\Users\lamal\Desktop\Itogoviy-test\obj\Debug\net6.0\Itogoviy-test.pdb
+C:\Users\lamal\Desktop\Itogoviy-test\obj\Debug\net6.0\Itogoviy-test.genruntimeconfig.cache
+C:\Users\lamal\Desktop\Itogoviy-test\obj\Debug\net6.0\ref\Itogoviy-test.dll
